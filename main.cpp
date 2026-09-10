@@ -1,7 +1,7 @@
 #include <iostream>
 
 void leerMatriz(int *A){
-    scanf();
+    scanf();//añadiedfhsdhfasihfoawui
 
 }
 
